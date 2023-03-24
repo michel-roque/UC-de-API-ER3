@@ -1,0 +1,54 @@
+{
+  "users": [
+    {
+      "email": "caique@senai.com",
+      "password": "123",
+      "nome": "caique",
+      "id": "1"
+    },
+    {
+      "email": "pedro@senai.com",
+      "password": "$2a$10$mr9D1RX0cpoc0k./9byqberKh.Di8B.B./haD2.cgUTcMZnare5Am",
+      "nome": "pedro",
+      "id": "Ki2YMIz"
+    }
+  ],
+  "noticias": [
+    {
+      "id": 1,
+      "imagem": "assets/img/cardnews.jpg",
+      "titulo": "Teste",
+      "descricao": "testando"
+    },
+    {
+      "id": 2,
+      "imagem": "assets/img/cardnews.jpg",
+      "titulo": "Teste Json",
+      "descricao": "testando json"
+    },
+    {
+      "id": 3,
+      "imagem": "assets/img/cardnews.jpg",
+      "titulo": "Teste",
+      "descricao": "testando"
+    },
+    {
+      "id": 4,
+      "imagem": "assets/img/cardnews.jpg",
+      "titulo": "Teste Json",
+      "descricao": "testando json"
+    },
+    {
+      "id": 5,
+      "imagem": "assets/img/cardnews.jpg",
+      "titulo": "Teste",
+      "descricao": "testando"
+    },
+    {
+      "id": 6,
+      "imagem": "assets/img/cardnews.jpg",
+      "titulo": "Teste Json",
+      "descricao": "testando json"
+    }
+  ]
+}
